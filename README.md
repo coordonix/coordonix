@@ -36,7 +36,7 @@ Here's a glimpse of the technologies that we use and love:
 
 ![](https://img.shields.io/badge/Frameworks%20&%20Libraries-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=ffffff&color=457b9d)
 ![](https://img.shields.io/badge/Frameworks%20&%20Libraries-Git-informational?style=flat&logo=git&logoColor=ffffff&color=457b9d)
-![](https://img.shields.io/badge/Frameworks%20&%20Libraries-GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=457b9d) -->
+![](https://img.shields.io/badge/Frameworks%20&%20Libraries-GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=457b9d)
 
 ![](https://img.shields.io/badge/Design%20Tools-Adobe%20Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=ffffff&color=457b9d)
 ![](https://img.shields.io/badge/Design%20Tools-Adobe%20Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=ffffff&color=457b9d)
@@ -53,6 +53,6 @@ Here's a glimpse of the technologies that we use and love:
 
 ## 🔗 Connect with Us
 
-[![](https://img.shields.io/badge/Facebook-@coordonix-informational?style=flat&logo=facebook&logoColor=ffffff&color=457b9d)](www.facebook.com/@coordonix)
-[![](https://img.shields.io/badge/YouTube-@coordonix-informational?style=flat&logo=youtube&logoColor=ffffff&color=457b9d)](www.youtube.com/@coordonix)
-[![](https://img.shields.io/badge/Website-coordonix.com-informational?style=flat&logo=website&logoColor=ffffff&color=457b9d)](www.coordonix.com)
+[![](https://img.shields.io/badge/Facebook-@coordonix-informational?style=flat&logo=facebook&logoColor=ffffff&color=457b9d)](https://www.facebook.com/@coordonix)
+[![](https://img.shields.io/badge/YouTube-@coordonix-informational?style=flat&logo=youtube&logoColor=ffffff&color=457b9d)](https://www.youtube.com/@coordonix)
+[![](https://img.shields.io/badge/Website-coordonix.com-informational?style=flat&logo=website&logoColor=ffffff&color=457b9d)](https://www.coordonix.com)
